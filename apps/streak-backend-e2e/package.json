@@ -1,0 +1,27 @@
+{
+  "name": "@ota-coding/streak-backend-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "streak-backend-e2e",
+    "projectType": "application",
+    "implicitDependencies": [
+      "streak-backend"
+    ],
+    "targets": {
+      "e2e": {
+        "executor": "@nx/jest:jest",
+        "outputs": [
+          "{workspaceRoot}/coverage/{e2eProjectRoot}"
+        ],
+        "options": {
+          "jestConfig": "apps/streak-backend-e2e/jest.config.ts",
+          "passWithNoTests": true
+        },
+        "dependsOn": [
+          "streak-backend:build"
+        ]
+      }
+    }
+  }
+}

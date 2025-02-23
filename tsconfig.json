@@ -1,0 +1,16 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/streak-frontend"
+    },
+    {
+      "path": "./apps/streak-backend-e2e"
+    },
+    {
+      "path": "./apps/streak-backend"
+    }
+  ]
+}

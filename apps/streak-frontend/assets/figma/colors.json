@@ -1,0 +1,17 @@
+{
+  "streak-gray": {
+    "primary": "#E6E6E6",
+    "secondary": "#A2A2A2"
+  },
+  "streak-purple": {
+    "primary": "#6442EF",
+    "secondary": "#4B27DC",
+    "500": "#DDD5FB"
+  },
+  "streak-black": {
+    "primary": "#212121"
+  },
+  "streak-yellow": {
+    "primary": "#FEF1CF"
+  }
+}
