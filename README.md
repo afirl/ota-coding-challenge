@@ -1,6 +1,7 @@
 # OtaCoding
 
 This is repository to OTA Coding Challenge, This is built using NX Integrated Monorepo.
+This activity is based form [here](https://getahead.notion.site/Coding-Task-c7316b7d20c84a31a3ab27995effb14e).
 
 <a alt="Nx logo" href="https://nx.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="45"></a>
 
