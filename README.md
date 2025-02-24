@@ -12,6 +12,8 @@ This is repository to OTA Coding Challenge, This is built using NX Integrated Mo
 
 ```
 npm i
+
+Use --force if encountered error.
 ```
 
 ## Run tasks
