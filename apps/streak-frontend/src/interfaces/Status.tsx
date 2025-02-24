@@ -1,6 +1,0 @@
-export enum STATUS {
-  COMPLETED = 'COMPLETED',
-  INCOMPLETE = 'INCOMPLETE',
-  AT_RISK = 'AT_RISK',
-  SAVED = 'SAVED'
-}
