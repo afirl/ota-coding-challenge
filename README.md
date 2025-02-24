@@ -37,5 +37,5 @@ npx nx streak-frontend:dev
 
 ## Local Development
 
-The `streak-backend` will be running at http://localhost:3001
-The `streak-frontend` will be running at http://localhost:3000
+- The `streak-backend` will be running at http://localhost:3001
+- The `streak-frontend` will be running at http://localhost:3000
