@@ -7,10 +7,10 @@
       "path": "./apps/streak-frontend"
     },
     {
-      "path": "./apps/streak-backend-e2e"
+      "path": "./apps/streak-backend"
     },
     {
-      "path": "./apps/streak-backend"
+      "path": "./packages/interfaces"
     }
   ]
 }
