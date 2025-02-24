@@ -4,6 +4,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../packages/interfaces"
+    },
+    {
       "path": "./tsconfig.app.json"
     }
   ]
