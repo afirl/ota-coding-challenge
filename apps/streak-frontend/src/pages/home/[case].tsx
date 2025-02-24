@@ -30,7 +30,7 @@ export default function HomeCase() {
   [caseParam]);
 
   return (
-    <div className="flex flex-col justify-center items-center max-w-[960px] min-h-[883px] mx-auto gap-6">
+    <div className="flex flex-col justify-center items-center max-w-[960px] mx-auto gap-6">
       <p className="text-streak-black-primary font-medium text-[56px] leading-[76.16px]">
         Your streak is {total} days
       </p>
